@@ -31,7 +31,8 @@ print("Swapped values are:",a,b)
 ```
 
 ## OUTPUT:
-![output](/Screenshot%202023-10-27%20123619.png)
+![image](https://github.com/Skathiranand/Swapping-two-values/assets/147141136/0aac3584-e6ab-4fbf-b5ff-dd93f8598136)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
